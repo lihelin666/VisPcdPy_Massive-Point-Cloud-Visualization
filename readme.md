@@ -1,15 +1,6 @@
 # Vispy+PySide2/Pyqt5 TinyDemo
 ##　May be a pythonic solution for massive point cloud visualization
 _Author: ihelin@tju.edu.cn, 2021年9月24日_
-### Notice
-* this project is maily for primary developers, engineers and scientists
-* For senior Developers, I prefer to recommend the "vispy.gloo" to you
-
-# How it works?
-* "vispy.scene.SceneCanvas" is directly embed into pyside2/pyqt5's layouts, 
-and It provides a variety of convenient interactive operations, 
-which can be used directly, too. 
-
 
 # How to run this project?
 * install vispy, numpy, ...
@@ -19,6 +10,15 @@ which can be used directly, too.
 
 # Results
 see the ScreenShot.png
+
+### Notice
+* this project is maily for primary developers, engineers and scientists
+* For senior Developers, I prefer to recommend the "vispy.gloo" to you
+
+# How it works?
+* "vispy.scene.SceneCanvas" is directly embed into pyside2/pyqt5's layouts, 
+and It provides a variety of convenient interactive operations, 
+which can be used directly, too. 
 
 # Others
 * the “test_vispy.ui”, you can open it by qtdesigner
