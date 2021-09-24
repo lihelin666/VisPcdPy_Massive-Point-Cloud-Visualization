@@ -10,10 +10,9 @@ _Author: lihelin@tju.edu.cn, 2021年9月24日_
 
 
 # Results
-see the ScreenShot.png
-* ![image](/ScreenShot.png)
+see the ScreenShot.png & 录制_2021_09_24_20_51_06_476.gif
+![image](/ScreenShot.png)
 
-* ![image](录制_2021_09_24_20_51_06_476.gif)
 
 ### Notice
 * this project is maily for primary developers, engineers and scientists
