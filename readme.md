@@ -27,7 +27,7 @@ which can be used directly, too.
 * the “test_vispy.ui”, you can open it by qtdesigner
 
 ----
-### 温馨提示
+### 温馨提示 
 * 该项目主要面向初级开发人员、工程师和科学家
 * 对于高级开发人员，我更愿意向您推荐“vispy.gloo”
 # 它是如何工作的？
