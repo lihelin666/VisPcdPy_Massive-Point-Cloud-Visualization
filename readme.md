@@ -8,8 +8,10 @@ _Author: ihelin@tju.edu.cn, 2021年9月24日_
 * click the "show point cloud" button
 * Done
 
+
 # Results
 see the ScreenShot.png
+![image](/ScreenShot.png)
 
 ### Notice
 * this project is maily for primary developers, engineers and scientists
