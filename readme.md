@@ -1,6 +1,6 @@
 # Vispy+PySide2/Pyqt5 TinyDemo
 ##　May be a pythonic solution for massive point cloud visualization
-_Author: ihelin@tju.edu.cn, 2021年9月24日_
+_Author: lihelin@tju.edu.cn, 2021年9月24日_
 
 # How to run this project?
 * install vispy, numpy, ...
@@ -12,6 +12,7 @@ _Author: ihelin@tju.edu.cn, 2021年9月24日_
 # Results
 see the ScreenShot.png
 ![image](/ScreenShot.png)
+![image](录制_2021_09_24_20_51_06_476.gif)
 
 ### Notice
 * this project is maily for primary developers, engineers and scientists
