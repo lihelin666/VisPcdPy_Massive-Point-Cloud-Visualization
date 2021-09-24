@@ -20,12 +20,9 @@ which can be used directly, too.
 * Done
 
 # Results
-## ScreenShot.png
-![image](/ScreenShot.png)
-## operations
+## GIF
 ![image](/录制_2021_09_24_20_51_06_476.gif)
 
-# GIF
 * the “test_vispy.ui”, you can open it by qtdesigner
 
 ----
@@ -42,6 +39,6 @@ which can be used directly, too.
 * 单击“显示点云”按钮
 * 完成
 # 结果
-请参见ScreenShot.png
+请参见ScreenShot.png, 录制_2021_09_24_20_51_06_476.gif
 # 其他
 *在“test_vispy.ui”中，您可以通过qtdesigner打开它
