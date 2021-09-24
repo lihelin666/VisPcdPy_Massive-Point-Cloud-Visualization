@@ -2,7 +2,7 @@
 
 ##　May be a pythonic solution for massive point cloud visualization
 ## 用于大规模点云可视化的pyqt/pyside的解决方案
-_Author: ihelin@tju.edu.cn, 2021年9月24日_
+_Author: lihelin@tju.edu.cn, 2021年9月24日_
 ### Notice
 * this project is maily for primary developers, engineers and scientists
 * For senior Developers, I prefer to recommend the "vispy.gloo" to you
@@ -20,9 +20,12 @@ which can be used directly, too.
 * Done
 
 # Results
-see the ScreenShot.png
+## ScreenShot.png
+![image](/ScreenShot.png)
+## operations
+![image](/录制_2021_09_24_20_51_06_476.gif)
 
-# Others
+# GIF
 * the “test_vispy.ui”, you can open it by qtdesigner
 
 ----
