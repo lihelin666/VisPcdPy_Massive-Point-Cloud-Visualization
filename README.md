@@ -1,6 +1,5 @@
-# Vispy-PySide2-Pyqt5-TinyDemo
-
-##　May be a pythonic solution for massive point cloud visualization
+# Vispy-PySide2-Pyqt5-TinyDemo-Python
+## Massive point cloud visualization for python,May be a pythonic solution for massive point cloud visualization
 ## 用于大规模点云可视化的pyqt/pyside的解决方案
 _Author: lihelin@tju.edu.cn, 2021年9月24日_
 ## How to run this project?
